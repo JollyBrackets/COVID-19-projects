@@ -5,9 +5,10 @@
 ## Switzerland
 
 ### Neighborhood help 
-- [Students Against Corona](https://www.studentsagainstcorona.ch)
+- [Students Against Corona](https://www.studentsagainstcorona.ch )
 - [Corona Ankauf](https://coronakauf.ch/)
-- [FiveUp](https://www.fiveup.org/)
+- [FiveUp Local Collaboration](https://www.fiveup.org/)
+- [Regional Help Groups](https://www.luzernerzeitung.ch/zentralschweiz/luzern/grosse-solidaritaet-in-der-zentralschweiz-nachbarn-helfen-nachbarn-hier-finden-sie-die-hilfsangebote-in-ihrer-region-ld.1204304#subtitle-luzern-second)
 
 ### KMU Help
 - [Free Tips](https://www.freetips.ch/)
