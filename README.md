@@ -13,6 +13,10 @@
 
 ## Global
 
+### Articles
+- [BAG - Hände waschen](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/hygiene-pandemiefall/haende-waschen.html)
+- [washingtonpost - Corona Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
 ### Data
 - [Johns Hopkins - Interactive Map](https://coronavirus.jhu.edu/map.html)
 - [Kaggle Data Set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv)
