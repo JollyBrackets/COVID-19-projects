@@ -6,7 +6,8 @@
 
 ### Neighborhood help 
 - [Students Against Corona](https://www.studentsagainstcorona.ch)
-- [Students Against Corona](https://coronakauf.ch/)
+- [Corona Ankauf](https://coronakauf.ch/)
+- [FiveUp](https://www.fiveup.org/)
 
 ### KMU Help
 - [Free Tips](https://www.freetips.ch/)
@@ -16,6 +17,7 @@
 ### Articles
 - [BAG - Hände waschen](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/hygiene-pandemiefall/haende-waschen.html)
 - [washingtonpost - Corona Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
 
 ### Data
 - [Johns Hopkins - Interactive Map](https://coronavirus.jhu.edu/map.html)
