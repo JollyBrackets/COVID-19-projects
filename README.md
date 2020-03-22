@@ -16,9 +16,12 @@
 ## Global
 
 ### Articles
+- [WHO Offical](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [BAG - Hände waschen](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/hygiene-pandemiefall/haende-waschen.html)
 - [washingtonpost - Corona Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
+### Volunteering
+- [Help with Covid](https://helpwithcovid.com/)
 
 ### Data
 - [Johns Hopkins - Interactive Map](https://coronavirus.jhu.edu/map.html)
@@ -31,3 +34,5 @@
 ### Home Fitness
 - [LES MILLS - Home Workout](https://watch.lesmillsondemand.com/at-home-workouts)
 - [Rheuma Training](https://www.rheumafit.ch/)
+
+
